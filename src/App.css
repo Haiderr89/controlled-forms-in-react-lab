@@ -54,14 +54,17 @@ input {
   align-items: center;
   justify-content: center;
   padding: 20px;
+  border: 1px solid black;
 }
 
 .bookCardsDiv {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  width: 90%;
+  width: 65%;
   margin-top: 20px;
+  border: 1px solid black;
+
 }
 
 .bookCard {
@@ -100,3 +103,5 @@ body {
   min-width: 100vw;
   min-height: 100vh;
 }
+
+
