@@ -61,10 +61,7 @@ input {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  width: 65%;
   margin-top: 20px;
-  border: 1px solid black;
-
 }
 
 .bookCard {
